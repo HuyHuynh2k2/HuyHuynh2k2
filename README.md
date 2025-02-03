@@ -2,7 +2,7 @@
 - 👀 I’m interested cooking and coding
 - 🌱 I’m currently learning networking and full stack dev
 - 💞️ I’m looking to collaborate on future
-- 📫 How to reach me longhuy2@uw.edu
+- 📫 How to reach me huynhlonghuy.work@gmail.com
 - 😄 Pronouns: Hueee
 - ⚡ Fun fact: Looking for programming JOB!
 
