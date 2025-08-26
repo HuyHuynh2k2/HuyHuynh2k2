@@ -28,10 +28,10 @@ const huy = {
 ```
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HuyHuynh2k2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyHuynh2k2&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=HuyHuynh2k2&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🎯 What I'm Up To
